@@ -41,6 +41,7 @@ export const socials: Social[] = [
   makeSocial('youtube', 'https://www.youtube.com/c/bit0r1n', 'fa-brands fa-youtube'),
   makeSocial('spotify', 'https://open.spotify.com/user/ebi2cjyn86lj7d2dogl6i67wn?si=152f5f79eb204ced',
     'fa-brands fa-spotify'),
+  makeSocial('instagram', 'https://www.instagram.com/bit0r1n', 'fa-brands fa-instagram')
 ]
 
 export const projects: Project[] = [
